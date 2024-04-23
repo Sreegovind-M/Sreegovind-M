@@ -2,7 +2,7 @@
 <h3 align="center">Web Developer | Newbie UI/UX Designer | LeetCode Problem Solver (250+)</h3>
 
 
-<p>👋 Hey there! I'm (name), a student deeply passionate about programming and development. With expertise in Java, C++, and MySQL, I've tackled over 250 problems on LeetCode, showcasing my love for problem-solving.
+<p>👋 Hey there! I'm Sreegovind, a student deeply passionate about programming and development. With expertise in Java, C++, and MySQL, I've tackled over 250 problems on LeetCode, showcasing my love for problem-solving.
 
 💻 On the development front, I specialize in front-end development and design. Proficient in React.js, HTML, CSS, JavaScript, and Figma, I've brought numerous projects to life, emphasizing my dedication to crafting impactful digital experiences.
 
