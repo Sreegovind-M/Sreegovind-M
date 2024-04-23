@@ -1,6 +1,19 @@
 <h1 align="center">Hey👋, I'm Sreegovind</h1>
 <h3 align="center">Web Developer | Newbie UI/UX Designer | LeetCode Problem Solver (250+)</h3>
 
+
+<p>👋 Hey there! I'm (name), a student deeply passionate about programming and development. With expertise in Java, C++, and MySQL, I've tackled over 250 problems on LeetCode, showcasing my love for problem-solving.
+
+💻 On the development front, I specialize in front-end development and design. Proficient in React.js, HTML, CSS, JavaScript, and Figma, I've brought numerous projects to life, emphasizing my dedication to crafting impactful digital experiences.
+
+🌟 Skills: Java, C++, MySQL, React.js, HTML, CSS, JavaScript, Material UI, Bootstrap, Figma (Design).
+
+📚 My passion for development and design drives me to create websites, logos, and more. Each project reflects my commitment to these domains.
+
+🚀 Future Aspirations: I aim to leverage my skills and passion in software companies, pursuing roles such as Developer, SDE, Project Manager, or any position where I can contribute meaningfully to projects and teams.
+
+Let's connect and explore opportunities together! 🌐</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sreegovind-m&label=Profile%20views&color=0e75b6&style=flat" alt="sreegovind-m" /> </p>
 
 <h3 align="left">Connect with me:</h3>
