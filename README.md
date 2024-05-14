@@ -1,5 +1,5 @@
 <h1 align="center">Hey👋, I'm Sreegovind</h1>
-<h3 align="center">Web Developer | Newbie UI/UX Designer | LeetCode Problem Solver (250+)</h3>
+<h3 align="center">Web Developer | UI/UX Designer | LeetCode Problem Solver (250+)</h3>
 
 
 <p>👋 Hey there! I'm Sreegovind, a student deeply passionate about programming and development. With expertise in Java, C++, and MySQL, I've tackled over 250 problems on LeetCode, showcasing my love for problem-solving.
